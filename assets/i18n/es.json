@@ -1,0 +1,56 @@
+{
+    "about": {
+        "sub-title": "Acerca de",
+        "title": "¿Quien soy?",
+        "paragraph-1": "Me especializo en el desarrollo de herramientas de software personalizadas para empresas y particulares.",
+        "paragraph-2": "Todos mis sistemas están desarrollados con tecnologías web actuales como Laravel, Angular, Ionic y MySQL.",
+        "paragraph-3": "¿Necesitas desarrollar una aplicación web, o una app en IOS o Android?, contáctame, seguro que puedo ayudarte a sacar adelante tu proyecto."
+    },
+    "contact": {
+        "sub-title": "CONTÁCTAME",
+        "title": "CONTACTO",
+        "email-form": {
+            "name-label": "Nombre",
+            "name-placeholder": "Nombre completo",
+            "email-label": "Email",
+            "email-placeholder": "Tu Email",
+            "message-label": "Mensaje",
+            "message-placeholder": "Escribe tu mensaje aquí",
+            "send-button": "Enviar mensaje"
+        },
+        "success-message": "Su mensaje se ha envíado con éxito.",
+        "validation": {
+            "required": "El campo es obligatorio",
+            "email-required": "Debe ser un email válido"
+        }
+    },
+    "education": {
+        "sub-title": "EDUCACIÓN",
+        "title": "EDUCACIÓN"
+    },
+    "experience": {
+        "sub-title": "EXPERIENCIA",
+        "title": "EXPERIENCIA LABORAL"
+    },
+    "services": {
+        "sub-title": "¿QUÉ ES LO QUE HAGO?",
+        "title": "ESTAS SON ALGUNAS DE MIS COMPETENCIAS"
+    },
+    "side-menu": {
+        "role": "Desarrollador Full Stack",
+        "country": "en Venezuela",
+        "menu-options": {
+            "about": "ACERCA DE",
+            "services": "SERVICIOS",
+            "skills": "SKILLS",
+            "education": "EDUCACIÓN",
+            "experience": "EXPERIENCIA",
+            "contact": "CONTACTO"
+        }
+    },
+    "skills": {
+        "sub-title": "MI SPECIALIDAD",
+        "title": "MIS SKILLS",
+        "paragraph-1": "Mi stack tecnológico está compuesto por."
+    }
+}

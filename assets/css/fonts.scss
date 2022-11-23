@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'montserrat';
+    src: url('../fonts/montserrat/Montserrat-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: 'montserrat-italic';
+    src: url(../fonts/montserrat/Montserrat-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: 'roboto';
+    src: url(../fonts/roboto/RobotoSlab-VariableFont_wght.ttf);
+}
+
+* {
+    font-family: 'montserrat', sans-serif;
+}

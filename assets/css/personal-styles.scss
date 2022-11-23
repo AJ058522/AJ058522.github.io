@@ -1,0 +1,83 @@
+@import './variables.scss';
+
+*:focus {
+    outline: none;
+}
+
+a {
+    color: $dark;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+html {
+    font-family: montserrat;
+}
+
+body {
+    background-color: #ffffff;
+    color: $dark;
+}
+
+.bg-darkblue {
+    background-color: $color-4;
+}
+
+.bg-lightblue {
+    background-color: $color-3;
+}
+
+.bg-main {
+    background-color: $color-1;
+}
+
+.bg-sub {
+    background-color: $color-2;
+}
+
+.click-able {
+    cursor: pointer;
+}
+
+.font-montserrat {
+    font-family: montserrat;
+}
+
+.font-roboto {
+    font-family: roboto;
+}
+
+.inv-feedback
+{
+  width: 100%;
+  margin: 0.25rem 0rem;
+  font-size: 90%;
+  font-weight: bold;
+  color: #FF586B;
+}
+
+.text-color-1 {
+    color: $color-1;
+}
+
+.text-color-2 {
+    color: $color-2;
+}
+
+.text-color-3 {
+    color: $color-3;
+}

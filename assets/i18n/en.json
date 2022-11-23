@@ -1,0 +1,56 @@
+{
+    "about": {
+        "sub-title": "About us",
+        "title": "Who am I?",
+        "paragraph-1": "I specialize in custom software development for companies and particulars.",
+        "paragraph-2": "All my systems are made with the latest technologies like Laravel, Angular, Ionic y MySQL.",
+        "paragraph-3": "Do you want to develop a web application or a mobile app for IOS and Android? contact me, I can help you."
+    },
+    "contact": {
+        "sub-title": "GET IN TOUCH",
+        "title": "CONTACT",
+        "email-form": {
+            "name-label": "Name",
+            "name-placeholder": "Full name",
+            "email-label": "Email",
+            "email-placeholder": "Your Email",
+            "message-label": "Message",
+            "message-placeholder": "Write your message here",
+            "send-button": "Send message"
+        },
+        "success-message": "Your message has been sent successfully.",
+        "validation": {
+            "required": "The field is required",
+            "email-required": "It must be a valid email"
+        }
+    },
+    "education": {
+        "sub-title": "EDUCATION",
+        "title": "EDUCATION"
+    },
+    "experience": {
+        "sub-title": "EXPERIENCE",
+        "title": "WORK EXPERIENCE"
+    },
+    "services": {
+        "sub-title": "WHAT I DO?",
+        "title": "HERE ARE SOME OF MY EXPERTISE"
+    },
+    "side-menu": {
+        "role": "Full Stack Developer",
+        "country": "in Venezuela",
+        "menu-options": {
+            "about": "ABOUT",
+            "services": "SERVICES",
+            "skills": "SKILLS",
+            "education": "EDUCATION",
+            "experience": "EXPERIENCE",
+            "contact": "CONTACT"
+        }
+    },
+    "skills": {
+        "sub-title": "MY SPECIALTY",
+        "title": "MY SKILLS",
+        "paragraph-1": "My tech stack is composed by."
+    }
+}
